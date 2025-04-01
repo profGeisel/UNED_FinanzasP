@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Geisel_VB\\Documents\\UNED_Proyecto\\UNED_FinanzasP\\WebFinanzasG\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{021451B4-89DD-4CCA-892F-A52B5797E4E0}|WebFinanzasG\\WebFinanzasG.csproj|c:\\users\\geisel_vb\\documents\\uned_proyecto\\uned_finanzasp\\webfinanzasg\\webfinanzasg\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{021451B4-89DD-4CCA-892F-A52B5797E4E0}|WebFinanzasG\\WebFinanzasG.csproj|solutionrelative:webfinanzasg\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Geisel_VB\\Documents\\UNED_Proyecto\\UNED_FinanzasP\\WebFinanzasG\\WebFinanzasG\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebFinanzasG\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Geisel_VB\\Documents\\UNED_Proyecto\\UNED_FinanzasP\\WebFinanzasG\\WebFinanzasG\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "WebFinanzasG\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T04:20:09.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
